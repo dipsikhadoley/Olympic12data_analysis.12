@@ -111,7 +111,7 @@ Accurate and insightful analysis using modern Python data science libraries. Spe
 
 **Dipsikha Doley**  
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/dipsikha-doley/) | [GitHub](https://github.com/dipsikhadoley)
+[LinkedIn](https://www.linkedin.com/in/dipsikha-doley-b86595336/) | [GitHub](https://github.com/dipsikhadoley)
 
 ---
 
